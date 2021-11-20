@@ -1,0 +1,11 @@
+/Users/filipelopes/Documents/blockchain-dev/near/nearvember/challenge3/say-hi/contract/target/wasm32-unknown-unknown/debug/deps/sha3-536ec3a93205a856.rmeta: /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/filipelopes/Documents/blockchain-dev/near/nearvember/challenge3/say-hi/contract/target/wasm32-unknown-unknown/debug/deps/libsha3-536ec3a93205a856.rlib: /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/filipelopes/Documents/blockchain-dev/near/nearvember/challenge3/say-hi/contract/target/wasm32-unknown-unknown/debug/deps/sha3-536ec3a93205a856.d: /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs /Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs
+
+/Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/lib.rs:
+/Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/paddings.rs:
+/Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/macros.rs:
+/Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/reader.rs:
+/Users/filipelopes/.cargo/registry/src/github.com-1ecc6299db9ec823/sha3-0.8.2/src/state.rs:

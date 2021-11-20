@@ -1,0 +1,1 @@
+/Users/filipelopes/Documents/blockchain-dev/near/nearvember/challenge3/say-hi/contract/target/wasm32-unknown-unknown/debug/greeter.wasm: /Users/filipelopes/Documents/blockchain-dev/near/nearvember/challenge3/say-hi/contract/src/lib.rs
